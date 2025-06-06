@@ -61,9 +61,9 @@ Classificacao_De_Animais/
 
 - **Disciplina**: Visão Computacional  
 - **Instituição**: CEFET-MG  
-- **Alunos**:  
-  - Jullia Fernandes  
-  - [Outros colegas, se houver]
+- **Alunos**:
+  - Anna Laura Moura Santana
+  - Jullia Fernandes Felizardo
 
 ## 🚀 Como Executar
 
